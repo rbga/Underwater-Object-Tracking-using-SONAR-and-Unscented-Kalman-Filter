@@ -1,5 +1,6 @@
 # Underwater Object Tracking using SONAR and Unscented Kalman Filter
 ![image](https://github.com/rbga/Underwater-Object-Tracking-using-SONAR-and-Unscented-Kalman-Filter/assets/75168756/82aa547d-2ec3-446e-aef9-dd738333ad02)
+<img src="[path/to/your/image.png](https://github.com/rbga/Underwater-Object-Tracking-using-SONAR-and-Unscented-Kalman-Filter/assets/75168756/82aa547d-2ec3-446e-aef9-dd738333ad02)" alt="Image Alt Text" width="300" height="200">
 
 ## Introduction
 Underwater Object Tracking using SONAR and Unscented Kalman Filter is a simulation project aimed at modeling an underwater object tracking scenario using SONAR and the Unscented Kalman Filter (UKF). The project utilizes the Phased Array Toolbox in MATLAB to implement the SONAR equations and perform precise computations in real-time.
